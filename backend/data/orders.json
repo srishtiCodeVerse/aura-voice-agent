@@ -1,0 +1,88 @@
+{
+  "orders": [
+    {
+      "order_id": "ORD-101",
+      "customer": "Priya Sharma",
+      "product": "Vitamin C Serum (30ml)",
+      "value": 699,
+      "status": "Out for Delivery",
+      "courier": "BlueDart",
+      "tracking_id": "BD-982103",
+      "delivery": "Expected by 6 PM today.",
+      "notes": "Order is out for delivery."
+    },
+    {
+      "order_id": "ORD-102",
+      "customer": "Rahul Verma",
+      "product": "Hydrating Sunscreen SPF 50",
+      "value": 499,
+      "status": "Delivered",
+      "courier": "Delhivery",
+      "tracking_id": "DL-441029",
+      "delivery": "Delivered 14 days ago.",
+      "notes": "Order has already been delivered."
+    },
+    {
+      "order_id": "ORD-103",
+      "customer": "Ananya Patel",
+      "product": "Green Tea Face Wash + Toner",
+      "value": 850,
+      "status": "Processing",
+      "courier": "Not assigned",
+      "tracking_id": "Not available",
+      "delivery": "Expected soon.",
+      "notes": "Ordered 3 hours ago. Eligible for cancellation."
+    }
+  ],
+  "products": [
+    {
+      "name": "Oil Control Face Wash",
+      "category": "Oily Skin",
+      "price": 349,
+      "description": "A gentle face wash designed for oily and acne-prone skin.",
+      "suitable_for": "Oily and acne-prone skin"
+    },
+    {
+      "name": "Lightweight Gel Moisturizer",
+      "category": "Oily Skin",
+      "price": 399,
+      "description": "A lightweight, non-greasy moisturizer for everyday hydration.",
+      "suitable_for": "Oily and combination skin"
+    },
+    {
+      "name": "Sunscreen SPF 50 PA+++",
+      "category": "Sun Protection",
+      "price": 499,
+      "description": "Broad-spectrum sunscreen for daily daytime protection.",
+      "suitable_for": "All skin types"
+    },
+    {
+      "name": "Acne Care Spot Gel",
+      "category": "Acne Care",
+      "price": 279,
+      "description": "A targeted spot-care gel for occasional breakouts.",
+      "suitable_for": "Acne-prone skin"
+    },
+    {
+      "name": "Gentle Hydrating Face Wash",
+      "category": "Dry Skin",
+      "price": 299,
+      "description": "A gentle cleanser designed to cleanse without excessive dryness.",
+      "suitable_for": "Dry and sensitive skin"
+    },
+    {
+      "name": "Hydrating Hyaluronic Serum",
+      "category": "Dry Skin",
+      "price": 499,
+      "description": "A hydrating serum containing hyaluronic acid.",
+      "suitable_for": "Dry and dehydrated skin"
+    },
+    {
+      "name": "Ceramide Repair Moisturizer",
+      "category": "Dry Skin",
+      "price": 449,
+      "description": "A nourishing moisturizer designed to support the skin barrier.",
+      "suitable_for": "Dry and sensitive skin"
+    }
+  ]
+}

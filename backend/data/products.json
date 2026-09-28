@@ -1,0 +1,66 @@
+[
+  {
+    "id": "P001",
+    "name": "Gentle Hydrating Face Wash",
+    "category": "Cleanser",
+    "skin_types": ["dry", "normal", "sensitive"],
+    "price": 299,
+    "description": "A gentle cleanser that removes dirt without drying the skin."
+  },
+  {
+    "id": "P002",
+    "name": "Oil Control Face Wash",
+    "category": "Cleanser",
+    "skin_types": ["oily", "acne-prone"],
+    "price": 349,
+    "description": "A lightweight cleanser designed for oily and acne-prone skin."
+  },
+  {
+    "id": "P003",
+    "name": "Hydrating Hyaluronic Serum",
+    "category": "Serum",
+    "skin_types": ["dry", "normal", "dehydrated"],
+    "price": 499,
+    "description": "A hydrating serum with hyaluronic acid for soft and moisturized skin."
+  },
+  {
+    "id": "P004",
+    "name": "Vitamin C Brightening Serum",
+    "category": "Serum",
+    "skin_types": ["normal", "dull", "combination"],
+    "price": 599,
+    "description": "A brightening serum designed to improve the appearance of dull skin."
+  },
+  {
+    "id": "P005",
+    "name": "Lightweight Gel Moisturizer",
+    "category": "Moisturizer",
+    "skin_types": ["oily", "combination", "acne-prone"],
+    "price": 399,
+    "description": "A lightweight non-comedogenic gel moisturizer."
+  },
+  {
+    "id": "P006",
+    "name": "Ceramide Repair Moisturizer",
+    "category": "Moisturizer",
+    "skin_types": ["dry", "sensitive", "normal"],
+    "price": 449,
+    "description": "A nourishing moisturizer designed to support the skin barrier."
+  },
+  {
+    "id": "P007",
+    "name": "Sunscreen SPF 50 PA+++",
+    "category": "Sunscreen",
+    "skin_types": ["oily", "dry", "normal", "combination"],
+    "price": 499,
+    "description": "Broad-spectrum SPF 50 sunscreen for daily daytime use."
+  },
+  {
+    "id": "P008",
+    "name": "Acne Care Spot Gel",
+    "category": "Acne Care",
+    "skin_types": ["acne-prone", "oily"],
+    "price": 279,
+    "description": "A targeted spot-care gel for occasional acne breakouts."
+  }
+]
