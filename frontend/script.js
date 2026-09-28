@@ -1,4 +1,4 @@
-const API_URL = "http://127.0.0.1:8000";
+const API_URL = "https://aura-voice-agent-bm5f.onrender.com";
 
 const chatBox = document.getElementById("chatBox");
 const input = document.getElementById("messageInput");
